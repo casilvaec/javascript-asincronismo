@@ -12,5 +12,8 @@
     "async"
   ],
   "author": "Carlos Silva @vital_ec",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
